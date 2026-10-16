@@ -1,0 +1,15 @@
+* {
+    background-color: rgb(255, 210, 236);
+}
+
+h1, h2, h3 {
+    color: rgb(35, 36, 36);
+    font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+                 "Lucida Sans", Arial, sans-serif;
+    font-size: 12px;
+}
+
+ol, ul {
+    color: rgb(0, 0, 0);
+    text-align: left;
+}
